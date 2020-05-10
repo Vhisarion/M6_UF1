@@ -1,0 +1,61 @@
+{
+  
+  
+  "registre": [
+    {
+      "nom": "Nombre0",
+      "cognom1": "Apellido0",
+      "cognom2": "Apellido0"
+    },
+    {
+      "nom": "Nombre1",
+      "cognom1": "Apellido1",
+      "cognom2": "Apellido1"
+    },
+    {
+      "nom": "Nombre2",
+      "cognom1": "Apellido2",
+      "cognom2": "Apellido2"
+    },
+    {
+      "nom": "Nombre3",
+      "cognom1": "Apellido3",
+      "cognom2": "Apellido3"
+    },
+    {
+      "nom": "Nombre4",
+      "cognom1": "Apellido4",
+      "cognom2": "Apellido4"
+    },
+    {
+      "nom": "Nombre5",
+      "cognom1": "Apellido5",
+      "cognom2": "Apellido5"
+    },
+    {
+      "nom": "Nombre6",
+      "cognom1": "Apellido6",
+      "cognom2": "Apellido6"
+    },
+    {
+      "nom": "Nombre7",
+      "cognom1": "Apellido7",
+      "cognom2": "Apellido7"
+    },
+    {
+      "nom": "Nombre8",
+      "cognom1": "Apellido8",
+      "cognom2": "Apellido8"
+    },
+    {
+      "nom": "Nombre9",
+      "cognom1": "Apellido9",
+      "cognom2": "Apellido9"
+    },
+    {
+      "nom": "Nombre10",
+      "cognom1": "Apellido10",
+      "cognom2": "Apellido10"
+    }
+  ]
+}
